@@ -1,2 +1,2 @@
-# microtef-app-testscript
+# kaner
 Microtef app functional tests.
